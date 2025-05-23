@@ -56,9 +56,9 @@ python reports/main.py FILES... --report REPORT [options]
 ## Example Usages
 
 Generate and print a report in the console:
-
+![CLI Example Console](screenshots/console_output.png)
 Generate and save a report to a JSON file:
-
+![CLI Example File](screenshots/file_output.png)
 
 ## Sample CSV Files
 
